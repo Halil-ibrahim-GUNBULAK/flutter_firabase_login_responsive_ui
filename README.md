@@ -2,12 +2,10 @@
 
 A Flutter project showcasing a responsive login UI integrated with Firebase for authentication. This project aims to provide a clean, modern, and responsive login interface that works seamlessly across different screen sizes and devices.
 
-![App Preview](readme_file/app_preview.png)
-
 ## Features
 
 - Responsive UI for mobile and web
-- Firebase Authentication
+- Firebase Authentication Goole Signin , Apple Signİn , Email Password Signup
 - Clean and modern design
 
 ## Setup Firebase
