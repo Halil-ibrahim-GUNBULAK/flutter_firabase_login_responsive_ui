@@ -10,9 +10,7 @@ A Flutter project showcasing a responsive login UI integrated with Firebase for 
 - Firebase Authentication
 - Clean and modern design
 
-## Demo
-
-Check out the demo video on YouTube:
+## Setup Firebase
 
 [![Watch the video](https://img.youtube.com/vi/FkFvQ0SaT1I/0.jpg)](https://www.youtube.com/watch?v=FkFvQ0SaT1I)
 
