@@ -25,7 +25,7 @@ Here are some screenshots of the app:
 ![Screenshot 3](readme_file/3.png)
 ![Screenshot 4](readme_file/4.png)
 ![Screenshot 5](readme_file/5.png)
-
+![Screenshot 6](readme_file/6.png)
 
 ## Getting Started
 
