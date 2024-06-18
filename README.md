@@ -29,7 +29,9 @@ To get started with this project, follow these steps:
 
 ### Prerequisites
 
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Flutter SDK  : [Install Flutter](https://flutter.dev/docs/get-started/install)
+-  Flutter version 3.16.5 on channel stable
+-   Dart version 3.2.3
 - Firebase account: [Create a Firebase account](https://firebase.google.com/)
 
 ### Setup
